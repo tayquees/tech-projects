@@ -4,7 +4,7 @@
 Get a Linux environment running on PS5 hardware via the available exploit/jailbreak path, turning fixed-purpose console hardware into a general-purpose system.
 
 ## What I did
-[Firmware version, exploit/jailbreak method used, Linux distro installed, and the general process — write it as you'd explain it to another technician]
+[Firmware 4.62 , HEN EXPLOIT, Linux distro installed, and the general process — write it as you'd explain it to another technician]
 
 ## Challenges
 [What broke, what you had to troubleshoot, any bricking risk and how you mitigated it]
